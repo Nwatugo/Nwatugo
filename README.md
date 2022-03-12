@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ezirike Kingsley Nwatugo
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning data analytics certification by Google
+- 🌱 I’m currently taking the data analytics certification by Google
 - 💞️ I’m looking to collaborate on exploring more in the tech space
 - 📫 You can reach me through my email kingsleyezirike@gmail.com
 
